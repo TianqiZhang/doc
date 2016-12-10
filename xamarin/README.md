@@ -3,7 +3,7 @@
 ## DFF (Docs From Folder)
 This tool allows documentation generation from assemblies located in a specific folder. Because `mdoc` on Windows doesn't support a `*.dll` flag (both a PowerShell and Batch limitation), you can just use the script.
 
-> Make sure to install Mono beforehand and add the path to the `bin` folder to the PATH.
+> Make sure to [install Mono](http://www.mono-project.com/download/) beforehand and add the path to the `bin` folder to the PATH.
 
 Trigger script as:
 
